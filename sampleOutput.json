@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 732,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Apple may release its next iPad Pro this fall",
+            "description": "Bloomberg reporter Mark Gurman expects Apple will release its next-generation iPad Pro sometime this fall. In his latest Power On newsletter\r\n, Gurman says he anticipates the new tablet will feature MagSafe inductive charging and Apple’s long-rumored but as y…",
+            "url": "https://www.engadget.com/apple-ipad-pro-m2-report-180138829.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/e2e65990-7624-11ec-b8ad-8965dccf581b",
+            "publishedAt": "2022-03-27T18:01:38Z",
+            "content": "Bloomberg reporter Mark Gurman expects Apple will release its next-generation iPad Pro sometime this fall. In his latest Power On newsletter\r\n, Gurman says he anticipates the new tablet will feature … [+934 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Oscars 2022: Hollywood gears up for its biggest night",
+            "description": "All you need to know about Sunday's Oscars ceremony.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-60872305",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16543/production/_123895419_oscarsepa.jpg",
+            "publishedAt": "2022-03-27T00:01:28Z",
+            "content": "Image caption, Final preparations have been made outside the Dolby Theatre on Hollywood Boulevard\r\nHollywood is gearing up for its biggest night of the year, as the stars get ready to attend the 94th… [+6089 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "Michael L Hicks",
+            "title": "It's time smart assistants evolved beyond fixed wake words like \"Hey Google\"",
+            "description": "We've been talking to Alexa, Siri, Bixby, and Google for years now. All four assistants have gotten much smarter at understanding and processing data, except when it comes to knowing when you're talking to it.",
+            "url": "https://www.androidcentral.com/accessories/smart-home/its-time-smart-assistants-evolved-beyond-fixed-wake-words-like-hey-google",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/qiQojQtuRTkTJcuEQgdt3P-1200-80.jpg",
+            "publishedAt": "2022-03-27T15:00:01Z",
+            "content": "While reviewing the Samsung Galaxy S22+, I toggled Bixby Voice to test its response time, then left the always-listening setting on out of sheer laziness. Every few days, the Bixby activation chime w… [+5141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "John Harris",
+            "title": "If Keir Starmer doesn’t seize the moment now, then what is his party for? | John Harris",
+            "description": "The old adage about oppositions not winning elections but governments losing them can’t excuse Labour’s lack of biteBoris Johnson’s government is in trouble. Since Rishi Sunak’s spring statement, whispers from Downing Street suggest a mood of panic and a cont…",
+            "url": "https://amp.theguardian.com/commentisfree/2022/mar/27/keir-starmer-party-opposition-election-labour",
+            "urlToImage": "https://i.guim.co.uk/img/media/61bc6f329f97644f340c740c3d697cbe030da6de/0_50_1772_1063/master/1772.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=449a282133f6fda3cafea5de068717cd",
+            "publishedAt": "2022-03-27T11:57:42Z",
+            "content": "Boris Johnsons government is in trouble. Since Rishi Sunaks spring statement, whispers from Downing Street suggest a mood of panic and a continuing lack of answers to the sharpest fall in living stan… [+7319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jay Rayner",
+            "title": "Queens Wine Bar, Liverpool: ‘Can show you a very nice time indeed’ – restaurant review",
+            "description": "In these troubling days a really good lunch can be a gentle salve for the soulQueens Wine Bar and Bistro, 8-10 Queen Avenue, Liverpool L2 4TX (0151 345 6646). Starters £6.50-£9, mains £14-£27, desserts £7, wines from £18On the morning my train to Liverpool pu…",
+            "url": "https://amp.theguardian.com/food/2022/mar/27/jay-rayner-restaurant-review-queens-wine-bar-liverpool-a-very-nice-time-indeed",
+            "urlToImage": "https://i.guim.co.uk/img/media/6f16cfd9adde0f95a4256fa4de0e2a158550ea33/0_1424_10222_6136/master/10222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=6171c42795c225efd6b7720538150005",
+            "publishedAt": "2022-03-27T05:00:17Z",
+            "content": "Queens Wine Bar and Bistro, 8-10 Queen Avenue, Liverpool L2 4TX (0151 345 6646). Starters £6.50-£9, mains £14-£27, desserts £7, wines from £18\r\nOn the morning my train to Liverpool pulled out of Lond… [+7788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Monisha Ravisetti",
+            "title": "The Puzzling Reason AI May Never Compete With Human Consciousness - CNET",
+            "description": "Two immersive thought experiments lead us right into a flurry of questions surrounding the human mind. You decide where you stand.",
+            "url": "https://www.cnet.com/science/biology/features/the-puzzling-reason-ai-may-never-compete-with-human-consciousness/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/fee34cb3e5bfe40704abd44746e99c210a4e269d/hub/2022/03/23/643a310d-6145-4508-bddc-0dbf07a04058/hero-image-desktop.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2022-03-27T12:00:02Z",
+            "content": "Constructing humanlike artificial intelligence often starts with deconstructing humans. Take fingerprints, for instance.\r\nWhen holding soapy dishes, we intuitively adjust our grip based on our finger… [+9997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "The Untold Story of the Creation of GIF At CompuServe In 1987",
+            "description": "Back in 1987 Alexander Trevor worked with the GIF format's creator, Steve Wilhite, at CompuServe. 35 years later Fast Company tech editor Harry McCracken (also Slashdot reader harrymcc) located Trevor for the inside story:\n\nWilhite did not come up with the GI…",
+            "url": "https://tech.slashdot.org/story/22/03/27/0244232/the-untold-story-of-the-creation-of-gif-at-compuserve-in-1987",
+            "urlToImage": "https://a.fsdn.com/sd/topics/graphics_64.png",
+            "publishedAt": "2022-03-27T07:34:00Z",
+            "content": "Wilhite did not come up with the GIF format in order to launch a billion memes. It was 1987, and he was a software engineer at CompuServe, the most important online service until an upstart called Am… [+2457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Devdiscourse"
+            },
+            "author": "ANI",
+            "title": "Apple's three-dimensional city maps feature now available in Canada - Devdiscourse",
+            "description": "<ol><li>Apple's three-dimensional city maps feature now available in Canada  Devdiscourse\r\n</li><li>Apple Maps brings major update to Canadian cities  Digital Trends\r\n</li><li>Apple Announces Revamped 3D Maps in Toronto, Montreal, and Vancouver  MacRumors\r\n</…",
+            "url": "https://www.devdiscourse.com/article/technology/1978999-apples-three-dimensional-city-maps-feature-now-available-in-canada",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/27_03_2022_09_52_44_6516773.jpg?width=920&format=jpeg",
+            "publishedAt": "2022-03-27T09:53:06Z",
+            "content": "American tech giant Apple has launched its more detailed, three-dimensional city maps feature that was released with iOS 15 in Canada. According to The Verge, this will offer better driving navigatio… [+1074 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "The Conversation",
+            "title": "What’s the best way to parallel park your car? Engineers did the math",
+            "description": "You’re driving slowly along a street, looking for a place to park. You come across a long stretch of parallel parking. But to your frustration, the spaces left by other people’s parking efforts are not quite long enough for you to fit. The search continues. D…",
+            "url": "https://thenextweb.com/news/best-way-to-parallel-park-your-car-engineers-did-math",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/shift?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F03%2Fparallel-parking.jpg&signature=a3abec6ac5883f02564b248e09fd3b78",
+            "publishedAt": "2022-03-27T16:13:24Z",
+            "content": "Youre driving slowly along a street, looking for a place to park. You come across a long stretch of parallel parking. But to your frustration, the spaces left by other peoples parking efforts are not… [+5179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Eva Rodríguez de Luis",
+            "title": "Eso que ves es un joystick de Spiderman, pero hay más guilty pleasures: los \"placeres culpables\" del equipo de Xataka",
+            "description": "Esos 200 Funkos que tienes apelotonados en una estantería. Ese juego que es malísimo para todo el mundo, pero que a ti te tiene enganchado. Esa taza de 100 eurazos que mantiene el café caliente y que te permite ver la temperatura desde tu móvil. Ese curioso j…",
+            "url": "https://www.xataka.com/seleccion/eso-que-ves-joystick-spiderman-hay-guilty-pleasures-placeres-culpables-equipo-xataka",
+            "urlToImage": "https://i.blogs.es/c2b1f6/placeres-culpables/840_560.jpg",
+            "publishedAt": "2022-03-27T15:00:23Z",
+            "content": "Esos 200 Funkos que tienes apelotonados en una estantería. Ese juego que es malísimo para todo el mundo, pero que a ti te tiene enganchado. Esa taza de 100 eurazos que mantiene el café caliente y que… [+22289 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "The Kim Komando Show",
+            "title": "The real way Facebook knows so much about you (and how to stop it)",
+            "description": "Facebook knows what you do elsewhere because you might have connected apps sharing your data, but you can stop that.",
+            "url": "https://www.foxnews.com/tech/real-way-facebook-knows-so-much-about-you-how-stop-it",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Facebook-whistleblower.jpg",
+            "publishedAt": "2022-03-27T12:49:14Z",
+            "content": "Is Facebook always listening? The truth is, it doesn't need to. \r\nBig Tech companies have far easier ways of gathering information on you. Take Google. If you use Gmail, Google Drive, YouTube, Google… [+4252 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Apartment Therapy"
+            },
+            "author": "Danielle Blundell",
+            "title": "This Asheville Apartment Has Big Apple Energy",
+            "description": "Project: Daniel Ian Smith of Village West DesignLocation: Asheville, North Carolina Sometimes the fourth time really is the charm. That was the case for one lifelong New York City couple, who at the beginning of the COVID-19 pandemic found themselves as empty…",
+            "url": "https://www.apartmenttherapy.com/artsy-asheville-apartment-37055881",
+            "urlToImage": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/at%2Fstyle%2F2022-03%2FPro%20Project%20Village%20West%2FVillageWest_Asheville_307",
+            "publishedAt": "2022-03-27T15:30:00Z",
+            "content": "We independently select these products—if you buy from one of our links, we may earn a commission.\r\nProject: Daniel Ian Smith of Village West DesignLocation: Asheville, North Carolina\r\nSometimes the … [+5127 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Catfox.life"
+            },
+            "author": null,
+            "title": "Daily-driving a Mac, one year later",
+            "description": "It has been about a year since I published Really leaving the Linux desktop behind. This marks the first year I’ve used Mac OS as my primary computing environment since 2014. Now, I want to summari…",
+            "url": "https://catfox.life/2022/03/26/daily-driving-a-mac-one-year-later/",
+            "urlToImage": "https://foxdotlife.files.wordpress.com/2018/10/cropped-cat-5-512-85909.png?w=200",
+            "publishedAt": "2022-03-27T16:18:24Z",
+            "content": "It has been about a year since I published Really leaving the Linux desktop behind. This marks the first year Ive used Mac OS as my primary computing environment since 2014. Now, I want to summarise … [+6805 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Ask HN: Why isn't there a Google competitor emerging?",
+            "description": "Comments",
+            "url": "https://news.ycombinator.com/item?id=30819678",
+            "urlToImage": null,
+            "publishedAt": "2022-03-27T12:20:04Z",
+            "content": "They would need to be Apple, they would need to understand how to write software for this purpose and then deliver it, and they would need to be able to make this the default search engine for iPhone… [+1150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hexops.com"
+            },
+            "author": null,
+            "title": "Mach v0.1 – cross-platform Zig graphics in ~60 seconds",
+            "description": "Five months ago we announced some of our vision for Mach &amp; the future of graphics with Zig. Today we’ve reached Mach v0.1 with over 1,100 commits.",
+            "url": "https://devlog.hexops.com/2022/mach-v0.1-zig-graphics-in-60s",
+            "urlToImage": "https://user-images.githubusercontent.com/3173176/160258304-3335a609-6177-4c1a-9008-d9525bd72c85.png",
+            "publishedAt": "2022-03-27T10:36:47Z",
+            "content": "Five months ago we announced some of our vision for Mach &amp; the future of graphics with Zig. Today weve reached Mach v0.1 with over 1,100 commits.\r\nCross-platform graphics in 60 seconds\r\nIf you ha… [+6559 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "black7375",
+            "title": "Firefox UI/UX History",
+            "description": "🦊 I respect proton UI and aim to improve it. Contribute to black7375/Firefox-UI-Fix development by creating an account on GitHub.",
+            "url": "https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history",
+            "urlToImage": "https://repository-images.githubusercontent.com/361647128/be26a080-c34e-11eb-921d-92a96a6b2fad",
+            "publishedAt": "2022-03-27T15:18:50Z",
+            "content": "The history of Firefox UI is important because my project compensates for the shortcomings of this Proton UI and inherits the strengths of the existing Firefox UIs.\r\nIt's also one of the ways to prev… [+10560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nicole.express"
+            },
+            "author": null,
+            "title": "What made the NES so interesting?",
+            "description": "I often like to cover oddities here; details of computers and arcade systems people may not have heard of, that didn’t sell well but had unique or interestin...",
+            "url": "https://nicole.express/2022/the-nes-as-an-artifact.html",
+            "urlToImage": null,
+            "publishedAt": "2022-03-27T00:41:44Z",
+            "content": "I often like to cover oddities here; details of computers and arcade systems people may not have heard of, that didnt sell well but had unique or interesting characteristics. But focusing on oddities… [+47858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Tom Sperlich",
+            "title": "Schweizer Covid-Warn-App wird (vorerst) eingestellt",
+            "description": "Trotz hoher Corona-Infektionszahlen setzt die Schweizer Regierung auf den Stopp aller Schutzmaßnahmen. Schluss damit auch für die SwissCovid-App.",
+            "url": "https://www.heise.de/news/Schweizer-Covid-Warn-App-wird-vorerst-eingestellt-6647661.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/4/3/6/2/7/5/Corona-App-a46328127dcdbb58.jpg",
+            "publishedAt": "2022-03-27T13:54:00Z",
+            "content": "Inhaltsverzeichnis\r\nDie Schweizer Covid-App SwissCovid wird Anfang April abgeschaltet. Eine offizielle, behördliche Mitteilung dazu gibt es allerdings noch nicht. Die Regierung, der Bundesrat, will d… [+3168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techstage.de"
+            },
+            "author": "Moritz Jäger",
+            "title": "TechStage | Displayport statt HDMI: (USB)-Kabel, Adapter & Co. ab 4 Euro",
+            "description": "Mit Displayport gibt es eine starke Alternative zu HDMI. TechStage zeigt, was man beim Kauf von Displayport- und Displayport über USB-C-Kabel beachten sollte.",
+            "url": "https://www.techstage.de/ratgeber/displayport-statt-hdmi-usb-kabel-adapter-and-co-ab-4-euro/0ldrtjj#article",
+            "urlToImage": "https://ocdn.eu/pulscms-transforms/1/6g5ktkpTURBXy9iZTAyNjE2ZDQ3MmRkMDM5Mjg1NTQ0OGU1YTdkMzE4Zi5qcGeSlQPNAe7M7M0JEs0FGpMFzQSwzQJ2",
+            "publishedAt": "2022-03-27T14:05:00Z",
+            "content": "Displayport kennen primär Gamer. Denn der Standard für den Anschluss von Monitoren ist mittlerweile hauptsächlich in Grafikkarten und Notebooks integriert, bei Fernsehern oder Konsolen regiert HDMI. … [+8610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Holger Bleich",
+            "title": "Monitore: Durchblick behalten und den richtigen auswählen",
+            "description": "Büromonitore gibt es ab 100 Euro, für edle Riesendisplays kann man locker das 20-Fache und mehr ausgeben. Doch was braucht man wirklich für welchen Zweck?",
+            "url": "https://www.heise.de/ratgeber/Monitore-Durchblick-behalten-und-den-richtigen-auswaehlen-6593996.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/8/5/9/6/8/shutterstock_170333162-e98e0d82a4d8d931.jpg",
+            "publishedAt": "2022-03-27T04:00:00Z",
+            "content": "Der Monitor-Markt ist groß und unübersichtlich. Worauf Sie achten und was Sie wissen müssen, erfahren Sie in unserer FAQ. Wir geben Antworten auf die häufigsten Fragen. \r\nWelche Paneltypen gibt es un… [+18160 chars]"
+        }
+    ]
+}
